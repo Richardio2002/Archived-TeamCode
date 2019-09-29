@@ -5,5 +5,5 @@ Many of these OpModes are likely not bug free and may require modifications to w
 
 ## Gamma Rays
 From FTC Team #9937, Gamma Rays
-(https://github.com/GammaRays2019)
+https://github.com/GammaRays2019
 Old account: (https://github.com/Team-Gamma-Rays)
